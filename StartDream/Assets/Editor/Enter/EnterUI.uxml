@@ -1,9 +1,0 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <Style src="project://database/Assets/Editor/EnterUI.uss?fileID=7433441132597879392&amp;guid=2364839e2abb41c4eb2b1fdaef0b8cd8&amp;type=3#EnterUI" />
-    <ui:VisualElement name="background" style="flex-grow: 1; background-image: url(&apos;project://database/Assets/UI/Bg_Cover.png?fileID=21300000&amp;guid=c03158e459749b74193e3daa3b199cf5&amp;type=3#Bg_Cover&apos;); -unity-background-scale-mode: stretch-to-fill; padding-top: 11%; padding-right: 11%; padding-bottom: 11%; padding-left: 11%;">
-        <ui:VisualElement name="text" style="flex-grow: 0.1; background-image: url(&apos;project://database/Assets/UI/notes_1_stardream.png?fileID=21300000&amp;guid=e790ca49d74f68844add04af67012451&amp;type=3#notes_1_stardream&apos;); -unity-slice-left: 0; -unity-slice-top: 0; -unity-slice-right: 0; -unity-slice-bottom: 0; top: 85%; flex-shrink: 1; flex-direction: column; flex-wrap: nowrap; flex-basis: 0; position: relative; opacity: 1; visibility: visible; overflow: visible; width: 100%; height: 1%;" />
-        <ui:VisualElement name="loading" style="flex-grow: 1; height: 1%; margin-top: 0; margin-right: 0; margin-bottom: 1%; margin-left: 0; bottom: 0; position: relative; top: 90%;">
-            <ui:ProgressBar value="22" title="首次进入需要一些加载时间哦……" name="firstLoading" style="background-color: rgba(0, 0, 0, 0); -unity-background-image-tint-color: rgb(255, 253, 253); -unity-background-scale-mode: stretch-to-fill; transition-property: all; transition-duration: 0s; transition-timing-function: ease-in; transition-delay: 0s;" />
-        </ui:VisualElement>
-    </ui:VisualElement>
-</ui:UXML>
