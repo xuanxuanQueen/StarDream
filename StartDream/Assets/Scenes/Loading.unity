@@ -426,6 +426,14 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 6348964597745019176, guid: 52bd974e91b569448a45df00965181e1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 1058
+      objectReference: {fileID: 0}
+    - target: {fileID: 7574640510600052631, guid: 52bd974e91b569448a45df00965181e1, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -606
+      objectReference: {fileID: 0}
     - target: {fileID: 8480958899226799534, guid: 52bd974e91b569448a45df00965181e1, type: 3}
       propertyPath: m_Name
       value: Enterbg
